@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+.container {
+	padding-top: 70px;
+	padding-bottom: 24px;
+}
+
+.box{
+	height: 600px;
+	margin: auto;
+	border:none;
+	max-width:500px;
+	border-radius: 4px;
+	box-sizing: border-box;
+	background-color: white;
+}
+.signin-contain{ padding:60px 68px 40px 68px; }
+
+.signin-tit{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 32px;
+    text-align: center;
+}
+.inputfield-box {
+	margin-bottom: 28px;
+	position: relative;
+
+}
+.inputfield {
+	width: 100%;
+	height: 55px;
+	outline: none;
+	margin: 0 auto;
+	display: block;
+	font-size: 16px;
+	padding-top: 6px;
+	border-radius: 4px;
+	padding-left: 20px;
+
+}
+
+
+.submit {	
+	width: 100%;
+	margin-left:12px;
+	border:none;
+	color: #fff;
+	height: 55px;
+	display: block;
+	padding: 0 20px;
+	cursor: pointer;
+	font-weight: 550;
+	line-height: 50px;
+	font-size: 1.2rem;
+	border-radius: 4px;	
+	letter-spacing: 0.2px;
+	background-color:#17517e;		
+}
