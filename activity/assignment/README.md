@@ -1,4 +1,7 @@
 
+
+open your terminal and change directory to assignment
+then npm install and npm start
 ### `npm start`
 
 Runs the app in the development mode.\
